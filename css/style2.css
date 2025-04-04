@@ -1,0 +1,168 @@
+@media (max-width: 1080px) {
+    .contenido {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 10px;
+    }
+    .contenido p {
+      padding: 10px;
+      text-align: center;
+    }
+    .contenido2{
+      width: 90%;
+      margin: 15px 0px 15px 0px;
+      justify-content: center;
+    }
+    .contenidop{
+      font-size: 17px;
+    }
+    .contenido2 img {
+      width: 90%;
+      margin: 10px auto;
+      display: block;
+    }
+    .contenido3{
+      border-radius: 10%;
+    }
+    .ulcaja, .ulcaja2 {
+      width: 90%;
+      float: none;
+      margin: 10px auto;
+    }
+    .contenidop img {
+        width: 90%;
+        margin: 10px auto;
+        display: block;
+      }
+  }
+
+main img {
+    width: 100px;
+    border-radius: 50px;
+    }
+
+.inicio{
+    background-color: black;
+    }
+
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    
+}
+
+main a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: overline;
+}
+
+.parte2{
+
+    background-color: #951A1A;
+    
+}
+
+.img_2 img{
+    border-radius: 300px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-right: 60px;
+}
+
+.ultargeta{
+    justify-content: center;
+    }
+
+    .ulcaja:hover{
+        background-color: white;
+      overflow: unset;
+      transform: translateY(-5px);
+    
+    }
+    .ulcaja{
+        display: flex;
+        flex-direction: row;
+        height: 400px;
+        width: 90%;
+        margin: auto;
+        border-radius: 7px;
+        box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.5);
+        overflow: hidden;
+        box-sizing: border-box;
+        padding: 100px;
+        margin-bottom: 50px;
+           
+    }
+    .ulcaja img{
+        width: 250px;
+       
+    }
+    .ulletra{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .caja_2{
+        display: flex;
+        flex-direction: row;
+        height: 400px;
+        width: 90%;
+        margin: auto;
+        border-radius: 7px;
+        box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.5);
+        overflow: hidden;
+        box-sizing: border-box;
+        padding: 100px;
+        margin-bottom: 50px;
+
+    }
+
+    .CAJA{
+        display: flex;
+        flex-direction: row;
+        height: 400px;
+        width: 90%;
+        margin: auto;
+        border-radius: 7px;
+        box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.5);
+        overflow: hidden;
+        box-sizing: border-box;
+        padding: 100px;
+        margin-bottom: 50px;
+    }
+
+    .cajax{
+        padding-right: 125px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cajaz{
+        padding-right: 125px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+    .pie{
+        justify-content: center;
+        background-color: black;
+        display: flex;
+    
+    
+    }
+    .pie footer{
+        color: white;
+    }
+
